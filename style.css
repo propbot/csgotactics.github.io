@@ -1,6 +1,6 @@
 @font-face{font-family: slant;src: url(SLANT.ttf);}
 @font-face{font-family: fairview;src: url(Fairview_Regular.otf);}
-#logo{position: absolute; left: 50px; top: 12px; font-family: slant; font-size: 56px;color: white;text-shadow: 2px 2px 5px black;}
+#logo{position: absolute; left: 50px; top: 12px; font-family: fairview; font-size: 56px;color: white;text-shadow: 2px 2px 5px black;}
 #header{display: inline-block;}
 #navbar{
     position: absolute;
